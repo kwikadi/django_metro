@@ -5,7 +5,7 @@ Delhi Metro DBMS project, with a web based frontend. Powered by Django Framework
 Requirements:
 
 Python 2.7
-Django
+Django 1.6.5
 
 Build instructions:
 
